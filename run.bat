@@ -1,0 +1,2 @@
+java aa.MokemonGo
+pause
